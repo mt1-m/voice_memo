@@ -1,0 +1,7 @@
+# Environments
+.env
+
+# mypy
+.mypy_cache/
+
+output/
