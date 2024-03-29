@@ -1,0 +1,3 @@
+speechrecognition
+keyboard
+pyaudio
